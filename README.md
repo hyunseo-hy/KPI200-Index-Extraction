@@ -13,3 +13,4 @@ Step2. Extract the only data needed
 * Prices
 
 Step3. Save as a list
+
