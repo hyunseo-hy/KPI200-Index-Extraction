@@ -2,7 +2,7 @@
 
 Python을 활용한 금융 데이터 분석 실습 저장소입니다.
 
-## 📁 구조
+## 구조
 
 ```
 Python-for-Finance-Practice/
@@ -20,7 +20,7 @@ Python-for-Finance-Practice/
     └── Missing_Value_Imputation.ipynb
 ```
 
-## 📌 주요 내용
+## 주요 내용
 
 - **01_basics** — Pandas, NumPy, Matplotlib 기초 사용법
 - **02_data_scraping** — JSON 크롤링, 지수 데이터 추출
